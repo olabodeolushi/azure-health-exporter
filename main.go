@@ -7,8 +7,8 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	"github.com/prometheus/common/log"
-	"github.com/prometheus/common/version"
+	//"github.com/prometheus/common/log"
+	//"github.com/prometheus/common/version"
 
 	"gopkg.in/alecthomas/kingpin.v2"
 	"gopkg.in/yaml.v2"
