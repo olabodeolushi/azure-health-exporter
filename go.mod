@@ -1,4 +1,4 @@
-module github.com/FXinnovation/azure-health-exporter
+module github.com/olabodeolushi/azure-health-exporter
 
 go 1.12
 
